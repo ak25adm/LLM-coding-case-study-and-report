@@ -1,0 +1,2 @@
+Model A (extraction/summarization): Llama 3.1 — chosen for strong instruction-following on structured/summarization tasks.
+Model B (evaluation): Mistral — a genuinely different model architecture, used to avoid self-evaluation bias that would occur if the same model graded its own output.
